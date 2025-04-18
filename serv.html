@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <img src="" alt="">
+        </div>
+        <ul>
+            <li><a href="Home.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="serv.html">Services</a></li>
+            <li><a href="help.html">Help?</a></li>
+            <li><a href="cont.html">Contactus</a></li>
+        </ul>
+    </nav>
+    <div class="content">
+        <p> ●Frontend Development
+              HTML, CSS, JavaScript – building visually appealing and responsive interfaces.<br>
+            
+            ● UI/UX Basics
+            Creating clean and user-friendly layouts.<br>
+            
+            ● Responsive Design
+            Ensuring websites work well on all screen sizes.<br>
+            
+            ●Website Redesign (Basic)
+            Improving design and layout of existing pages.<br>
+            
+            ● Project Collaboration
+            Open to working on beginner or team projects.<br>
+            
+            ● Ongoing Learning
+            Currently exploring backend technologies and improving development skills.<br>
+            
+            </p>
+            <div>"Have a project idea? Let’s build it together!"</div>
+    </div>
+    <script>
+        window.addEventListener('scroll', function () {
+            const nav = document.querySelector('nav');
+            if (window.scrollY > 50) {
+                nav.classList.add('scrolled');
+            } else {
+                nav.classList.remove('scrolled');
+            }
+        });
+    </script>
+    
+</body>
+</html>

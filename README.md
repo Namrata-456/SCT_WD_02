@@ -10,9 +10,9 @@ This web app features essential stopwatch functionalities such as Start, Pause, 
 
 # File Strucutre
 task02
-├── index.html       # Main HTML file
-├── script.js        # JavaScript file for stopwatch logic
-└── style.css        # CSS styling (if external)
+ -index.html       # Main HTML file
+ -script.js        # JavaScript file for stopwatch logic
+ -style.css        # CSS styling (if external)
 
 # How to Use
 Open index.html in a web browser.

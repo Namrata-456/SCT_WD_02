@@ -4,14 +4,19 @@ This web app features essential stopwatch functionalities such as Start, Pause, 
 
 # Features
 ⏱️ Start / Pause / Reset the stopwatch.
+
 🏁 Record lap times.
+
 🧮 Laps are displayed in serial order.
+
 🧼 Reset clears timer and lap records.
 
 # File Strucutre
 task02
  – index.html       # Main HTML file
+ 
  – script.js        # JavaScript file for stopwatch logic
+ 
  – style.css        # CSS styling (if external)
 
 # How to Use

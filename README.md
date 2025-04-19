@@ -30,3 +30,9 @@ task02
 
 5. Use Reset to clear everything and start fresh.
 
+
+🙋‍♀️ Author
+Namrata Pahwa|
+Intern at Skill Craft Technology
+
+

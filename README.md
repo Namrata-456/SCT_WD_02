@@ -10,18 +10,18 @@ This web app features essential stopwatch functionalities such as Start, Pause, 
 
 # File Strucutre
 task02
- -index.html       # Main HTML file
- -script.js        # JavaScript file for stopwatch logic
- -style.css        # CSS styling (if external)
+ – index.html       # Main HTML file
+ – script.js        # JavaScript file for stopwatch logic
+ – style.css        # CSS styling (if external)
 
 # How to Use
-Open index.html in a web browser.
+1. Open index.html in a web browser.
 
-Click Start to begin the stopwatch.
+2. Click Start to begin the stopwatch.
 
-Use Pause to stop/resume the timer.
+3. Use Pause to stop/resume the timer.
 
-Click Lap to record the current time.
+4. Click Lap to record the current time.
 
-Use Reset to clear everything and start fresh.
+5. Use Reset to clear everything and start fresh.
 
